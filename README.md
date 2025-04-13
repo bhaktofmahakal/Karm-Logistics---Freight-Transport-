@@ -5,19 +5,19 @@ A backend-powered logistics and freight management web application developed usi
 
 ## 🚚 Features
 
-- Company-side login system
-- Freight/transport booking form
-- Backend data handling using PHP & MySQL
-- Shipment management (CRUD)
-- Status-based display of records
-- Simple and clean UI with HTML/CSS
+    - Company-side login system
+    - Freight/transport booking form
+    - Backend data handling using PHP & MySQL
+    - Shipment management (CRUD)
+    - Status-based display of records
+    - Simple and clean UI with HTML/CSS
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, basic JS
-- **Backend:** PHP
-- **Database:** MySQL (phpMyAdmin)
-- **Server:** XAMPP (Apache + MySQL)
+    - **Frontend:** HTML, CSS, basic JS
+    - **Backend:** PHP
+    - **Database:** MySQL (phpMyAdmin)
+    - **Server:** XAMPP (Apache + MySQL)
 
 ## ⚙️ Setup Instructions
 
