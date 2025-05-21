@@ -18,9 +18,4 @@ A backend-powered logistics and freight management web application developed usi
     - **Backend:** PHP
     - **Database:** MySQL (phpMyAdmin)
     - **Server:** XAMPP (Apache + MySQL)
-
-## ⚙️ Setup Instructions
-
-## 📁 Folder Structure
-
-
+\
